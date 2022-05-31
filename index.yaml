@@ -3,12 +3,12 @@ entries:
   scale-out-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-31T17:01:30.358241+09:00"
+    created: "2022-05-31T17:06:51.656629+09:00"
     description: A Helm chart for Kubernetes
-    digest: 35597f95380931ee9e41b3554b666448cd03f9c20cda49de97f53a6d2d34584d
+    digest: d6bcc0e9d226f24833e060568d0502bb38e78154923c89e106609e47d68ca528
     name: scale-out-test
     type: application
     urls:
     - scale-out-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-31T17:01:30.357379+09:00"
+generated: "2022-05-31T17:06:51.655981+09:00"
